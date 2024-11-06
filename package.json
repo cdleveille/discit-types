@@ -1,6 +1,6 @@
 {
   "name": "discit-types",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Shared types package for the discit, discit-api, and discit-api-refresh projects.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
